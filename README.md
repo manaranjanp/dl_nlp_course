@@ -4,15 +4,15 @@ Here are few links to go through in the class
 
 1. Visual introduction to attention:
 
-https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+    https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
 2. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
 
-http://jalammar.github.io/illustrated-bert/
+    http://jalammar.github.io/illustrated-bert/
 
 3. Illustrated Transformer
 
-http://jalammar.github.io/illustrated-transformer/
+    http://jalammar.github.io/illustrated-transformer/
 
 
 
