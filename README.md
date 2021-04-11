@@ -1,3 +1,9 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/manaranjanp/dl_nlp_course/blob/main/notebooks/IMDB%20Classification%20-%20BoW%20and%20Embeddings.ipynb)
+
+
+
 # dl_nlp_course
 
 Here are few links to go through in the class
