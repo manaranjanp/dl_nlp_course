@@ -1,8 +1,8 @@
 Class Notebooks
 
-1. [![Open In Colab](BOW and Embeddings)](https://colab.research.google.com/github/manaranjanp/dl_nlp_course/blob/main/notebooks/IMDB%20Classification%20-%20BoW%20and%20Embeddings.ipynb)
+1. [(BOW and Embeddings)](https://colab.research.google.com/github/manaranjanp/dl_nlp_course/blob/main/notebooks/IMDB%20Classification%20-%20BoW%20and%20Embeddings.ipynb)
 
-2. [![Open In Colab](Sequence Modelling)](https://github.com/manaranjanp/dl_nlp_course/blob/main/notebooks/IMDB%20Classification%20-%20Sequence%20Modelling.ipynb)
+2. [(Sequence Modelling)](https://github.com/manaranjanp/dl_nlp_course/blob/main/notebooks/IMDB%20Classification%20-%20Sequence%20Modelling.ipynb)
 
 
 
